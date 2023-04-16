@@ -16,6 +16,9 @@
 - -- Check if there is a new version
 - require('__shared/UpdateCheck')   
 -
+- Copy UpdateCheck.lua and version in your shared folder
+-
+- What is do:
 - This wil check if the current version is the same as on github
 - 
 -These things you need to change in the updatecheck.lua
